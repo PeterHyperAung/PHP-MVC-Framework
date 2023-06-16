@@ -1,0 +1,15 @@
+{
+  "name": "peterhyperaung/mvc-framework",
+  "authors": [
+    {
+      "name": "PeterHyperAung",
+      "email": "peteraungmpa2006@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "require": {}
+}
