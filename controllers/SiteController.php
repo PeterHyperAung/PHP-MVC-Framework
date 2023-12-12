@@ -1,8 +1,10 @@
 <?php
 
-namespace app\controllers\SiteController;
+namespace app\controllers;
+use app\core\Controller;
 
-class SiteController
+
+class SiteController extends Controller
 {
     public function handleContact() 
     {
